@@ -1,0 +1,16 @@
+C:\Users\dhira\OneDrive\Desktop\SofturaTraining\Training25\NunitExample\NunitExample\bin\Debug\net5.0\NunitExample.exe
+C:\Users\dhira\OneDrive\Desktop\SofturaTraining\Training25\NunitExample\NunitExample\bin\Debug\net5.0\NunitExample.deps.json
+C:\Users\dhira\OneDrive\Desktop\SofturaTraining\Training25\NunitExample\NunitExample\bin\Debug\net5.0\NunitExample.runtimeconfig.json
+C:\Users\dhira\OneDrive\Desktop\SofturaTraining\Training25\NunitExample\NunitExample\bin\Debug\net5.0\NunitExample.runtimeconfig.dev.json
+C:\Users\dhira\OneDrive\Desktop\SofturaTraining\Training25\NunitExample\NunitExample\bin\Debug\net5.0\NunitExample.dll
+C:\Users\dhira\OneDrive\Desktop\SofturaTraining\Training25\NunitExample\NunitExample\bin\Debug\net5.0\ref\NunitExample.dll
+C:\Users\dhira\OneDrive\Desktop\SofturaTraining\Training25\NunitExample\NunitExample\bin\Debug\net5.0\NunitExample.pdb
+C:\Users\dhira\OneDrive\Desktop\SofturaTraining\Training25\NunitExample\NunitExample\obj\Debug\net5.0\NunitExample.csprojAssemblyReference.cache
+C:\Users\dhira\OneDrive\Desktop\SofturaTraining\Training25\NunitExample\NunitExample\obj\Debug\net5.0\NunitExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhira\OneDrive\Desktop\SofturaTraining\Training25\NunitExample\NunitExample\obj\Debug\net5.0\NunitExample.AssemblyInfoInputs.cache
+C:\Users\dhira\OneDrive\Desktop\SofturaTraining\Training25\NunitExample\NunitExample\obj\Debug\net5.0\NunitExample.AssemblyInfo.cs
+C:\Users\dhira\OneDrive\Desktop\SofturaTraining\Training25\NunitExample\NunitExample\obj\Debug\net5.0\NunitExample.csproj.CoreCompileInputs.cache
+C:\Users\dhira\OneDrive\Desktop\SofturaTraining\Training25\NunitExample\NunitExample\obj\Debug\net5.0\NunitExample.dll
+C:\Users\dhira\OneDrive\Desktop\SofturaTraining\Training25\NunitExample\NunitExample\obj\Debug\net5.0\ref\NunitExample.dll
+C:\Users\dhira\OneDrive\Desktop\SofturaTraining\Training25\NunitExample\NunitExample\obj\Debug\net5.0\NunitExample.pdb
+C:\Users\dhira\OneDrive\Desktop\SofturaTraining\Training25\NunitExample\NunitExample\obj\Debug\net5.0\NunitExample.genruntimeconfig.cache
